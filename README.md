@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bharti jha</h1>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+image+coding+girls&tbm=isch&chips=q:animated+image+coding+girls,online_chips:github:ZlBfpDhMqJU%3D&hl=en-GB&sa=X&ved=2ahUKEwiOv4P0zsP_AhVRHLcAHX3qDY0Q4lYoAnoECAEQKg&biw=1349&bih=657#imgrc=lahMOKRfUGYsqM>
+
 <h3 align="center">A passionate java developer from India.</h3>
 
-
-
+<img align="right" alt="coding" width="400" src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966&tbnid=lahMOKRfUGYsqM&vet=12ahUKEwjYiOSZz8P_AhXXA7cAHXx1DpcQMygAegUIARDGAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fanushkayadav&docid=Vv6MJHpg-sNbeM&w=800&h=600&q=animated%20image%20coding%20girls&hl=en-GB&ved=2ahUKEwjYiOSZz8P_AhXXA7cAHXx1DpcQMygAegUIARDGAQ>
 - 🔭 I’m currently fresher 
 
 - 🌱 I’m currently learning **Python Framework**
