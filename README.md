@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharti jha</h1>
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+image+coding+girls&tbm=isch&chips=q:animated+image+coding+girls,online_chips:github:ZlBfpDhMqJU%3D&hl=en-GB&sa=X&ved=2ahUKEwiOv4P0zsP_AhVRHLcAHX3qDY0Q4lYoAnoECAEQKg&biw=1349&bih=657#imgrc=lahMOKRfUGYsqM>
 <h3 align="center">A passionate java developer from India.</h3>
 
 
