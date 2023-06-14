@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bharti Jha</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-- 🌱 I’m currently learning **Java Frameworks,AI,Mobile App Development.**
+- 🌱 I’m currently learning **Java Frameworks,AI,Mobile App Development,Python Framework.**
 
 - 📫 How to reach me **bhartijha393@gmail.com**
 
