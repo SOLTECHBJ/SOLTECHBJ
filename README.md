@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soltechbj" alt="soltechbj" /></a> </p>
 
-- 🔭 I’m currently fresher **AI-CHAT(ChatGpt)**
+- 🔭 I’m currently fresher 
 
 - 🌱 I’m currently learning **Python Framework**
 
-- 👯 I’m looking for job **AI-CHAT(ChatGpt)**
+- 👯 I’m looking for job 
 
-- 🤝 I’m looking for the help of organization with 100% effort. **AI-CHAT(ChatGpt)**
+- 🤝 I’m looking for the help of organization with 100% effort. 
 
 - 💬 Ask me about **i am self learner,honest,hard working girl,and my pease of place is template and alone.**
 
