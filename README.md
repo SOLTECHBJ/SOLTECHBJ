@@ -1,24 +1,25 @@
 
-![Header](https://miro.medium.com/v2/resize:fit:1400/0*JgJGHBhL8gkjYk_3.jpg)<h1 align="center">Hi 👋, I'm Bharti jha</h1>
+![Header](https://miro.medium.com/v2/resize:fit:1400/0*JgJGHBhL8gkjYk_3.jpg)<h1 align="center">
+<h1> Hey there! 👋 I'm Bharti Jha, and I love working with words and teaching computers to understand human language.</h1>
 
-<h3 align="center">A passionate java developer from India.</h3>
+<h3 align="center"> I'm from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=626&ext=jpg">
-- 🔭 I’m currently fresher.
+- 🔭Right now, I'm starting my professional journey, excited to use my love for coding and explore more about NLP and Deep Learning..
 
-- 🌱 I’m currently learning **Python Framework**.
+- 🌱  I'm learning about cool tools like TensorFlow and PyTorch, which help computers learn like humans do..
 
-- 👯 I’m looking for job.
+- 👯 I'm actively searching for opportunities to share my skills and passion. I'm eager to find a position where I can work with a motivated team, bring my enthusiasm, and make valuable contributions to exciting projects..
 
-- 🤝 I’m looking for the help of organization with 100% effort. 
+- 🤝  I want to work for a company that cares about its employees and where I can learn and grow.. 
 
-- 💬 Ask me about **i am self learner,honest,hard working girl,and my pease of place is temple.**
+- 💬 Feel free to engage with me on topics ranging from my self-driven learning journey to my dedication, honesty, and hardworking nature.
 
-- 📫 How to reach me **bhartijha542@gmail.com**
+- 📫 Feel free to contact me at bhartijha542@gmail.com to talk about potential job opportunities or just to chat about our common interests in technology.
 
-- 📄 Know about my experiences [file:///C:/Users/lenovo/Desktop/Bharti_jha(resume).pdf](file:///C:/Users/lenovo/Desktop/Bharti_jha(resume).pdf)
+- 📄 If you want to know more about what I've done before, you can check out my resume here.
 
-- ⚡ Fun fact **Music.**
+- ⚡ Fun fact: I'm a big fan of music, and it always puts me in a good mood!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
