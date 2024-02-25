@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/video/clip-1090116267-abstract-fast-moving-glowing-animation-different-shapes)](https://soltechbj.io)
+[![MasterHead](https://www.shutterstock.com/video/clip-1090116267-abstract-fast-moving-glowing-animation-different-shapes)](https://SOLTECHBJ.io)
 <h1 align="center">Hi 👋, I'm Bharti jha</h1>
 
 <h3 align="center">A passionate java developer from India.</h3>
