@@ -1,5 +1,5 @@
 
-![Header](https://www.shutterstock.com/video/clip-1090116267-abstract-fast-moving-glowing-animation-different-shapes)
+![Header](https://img.freepik.com/free-vector/music-concert-twitch-banner-template_23-2150988935.jpg?w=1380&t=st=1708836357~exp=1708836957~hmac=ae4ffe1d6f16418db6c877278f827c37710f7bf66d0258e452ed5ba92c27c187)
 
 <h1 align="center">Hi 👋, I'm Bharti jha</h1>
 
